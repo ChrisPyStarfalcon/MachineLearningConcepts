@@ -1,0 +1,10 @@
+fuel_type,average_price,rank
+Natural Gas,3795.0,9
+Bi Fuel,14445.394495412844,8
+Petrol,16227.775369334897,7
+Diesel,16484.449270666566,6
+Petrol Hybrid,20178.0829810901,5
+Electric,32694.564458464774,4
+Petrol Plug-in Hybrid,35561.3043902439,3
+Diesel Plug-in Hybrid,35633.69189189189,2
+Diesel Hybrid,40490.529621698784,1
